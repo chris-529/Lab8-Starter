@@ -1,7 +1,7 @@
 # Lab8-Starter
 
 # Members:
-Christopher Schrader, Thanh
+Christopher Schrader, Thanh Trinh
 
 # How are graceful degradation and service workers related?
 
